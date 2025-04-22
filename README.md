@@ -2,6 +2,10 @@
 
 A simple application to help learn English words using flashcards.
 
+
+![Screenshot 2025-04-22 155315](https://github.com/user-attachments/assets/d18e8242-3fa0-45a0-a275-fc470318b431)
+
+
 ## Features
 
 *   Displays English words and their meanings.
